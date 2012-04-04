@@ -24,6 +24,7 @@ SUBDIRS = \
 	proxyscan \
 	rpgserv \
 	saslserv \
+	siteserv \
 	statserv \
 	scripting \
 	transport \
