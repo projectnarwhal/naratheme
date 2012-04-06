@@ -43,6 +43,8 @@
 #define PRIV_GLOBAL          "operserv:global"
 #define PRIV_GRANT           "operserv:grant"
 #define PRIV_OVERRIDE        "operserv:override"
+/* siteserv */
+#define PRIV_SITE_INT        "siteserv:access"
 
 /* other access levels */
 #define AC_NONE NULL /* anyone */

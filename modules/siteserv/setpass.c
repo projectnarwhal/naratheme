@@ -45,8 +45,7 @@ static void siteserv_cmd_setpass(sourceinfo_t *si, int parc, char *parv[])
   myuser_t *mu;
   char *account;
   char *pass;
-  hook_user_req_t req;
-
+  
   account = parv[0], pass = parv[1];
 
   if (!account || !pass)
